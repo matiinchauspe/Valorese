@@ -1,0 +1,45 @@
+{
+  "dollar-blue": {
+    "key": "dollar-blue",
+    "buy": {
+      "text": "Compra",
+      "value": "$366.00"
+    },
+    "sell": {
+      "text": "Venta",
+      "value": "$370.00"
+    }
+  },
+  "dollar-oficial": {
+    "key": "dollar-oficial",
+    "buy": {
+      "text": "Compra",
+      "value": "$179.67"
+    },
+    "sell": {
+      "text": "Venta",
+      "value": "$188.57"
+    }
+  },
+  "dollar-bolsa": {
+    "key": "dollar-bolsa",
+    "buy": {
+      "text": "Compra",
+      "value": "$343.14"
+    },
+    "sell": {
+      "text": "Venta",
+      "value": "$344.63"
+    }
+  },
+  "dollar-turista": {
+    "key": "dollar-turista",
+    "buy": {
+      "text": ""
+    },
+    "sell": {
+      "text": "Venta",
+      "value": "$244.08"
+    }
+  }
+}
